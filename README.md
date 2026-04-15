@@ -61,7 +61,7 @@ The model is deployed using Streamlit, allowing real-time predictions by enterin
 ## 📸 Application Preview
 
 ![App Screenshot](screenshot.png)
-
+![App Screenshot](screenshot2.png)
 
 ## ▶️ How to Run
 
