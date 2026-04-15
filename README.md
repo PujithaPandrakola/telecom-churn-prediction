@@ -58,6 +58,11 @@ The model is deployed using Streamlit, allowing real-time predictions by enterin
 
 ---
 
+## 📸 Application Preview
+
+![App Screenshot](screenshot.png)
+
+
 ## ▶️ How to Run
 
 ```bash
