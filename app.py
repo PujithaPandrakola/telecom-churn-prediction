@@ -11,7 +11,7 @@ scaler = pickle.load(open("scaler.pkl", "rb"))
 columns = pickle.load(open("columns.pkl", "rb"))
 
 # Load dataset (use CSV to avoid openpyxl issue)
-df = pd.read_excel("churn.xlsx")
+df = pd.read_csv("churn.csv")
 
 # Clean column names (same as training)
 df.columns = df.columns.str.strip().str.lower().str.replace(" ", "_").str.replace(".", "_")
