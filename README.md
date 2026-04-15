@@ -79,6 +79,13 @@ streamlit run app.py
 
 ---
 
+---
+
+## 🌐 Live Demo
+https://telecom-churn-prediction-37ifdsn9qs3fqzehrbkl95.streamlit.app/
+
+---
+
 ## 👩‍💻 Author
 
 **Pujitha Pandrakola**
